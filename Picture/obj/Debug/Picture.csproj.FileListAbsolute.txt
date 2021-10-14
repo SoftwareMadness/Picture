@@ -1,7 +1,0 @@
-C:\Users\Piotr\Documents\SharpDevelop Projects\Picture\Picture\obj\Debug\Picture.csprojResolveAssemblyReference.cache
-C:\Users\Piotr\Documents\SharpDevelop Projects\Picture\Picture\obj\Debug\Picture.MainForm.resources
-C:\Users\Piotr\Documents\SharpDevelop Projects\Picture\Picture\obj\Debug\Picture.csproj.GenerateResource.Cache
-C:\Users\Piotr\Documents\SharpDevelop Projects\Picture\Picture\bin\Debug\Picture.exe
-C:\Users\Piotr\Documents\SharpDevelop Projects\Picture\Picture\bin\Debug\Picture.pdb
-C:\Users\Piotr\Documents\SharpDevelop Projects\Picture\Picture\obj\Debug\Picture.exe
-C:\Users\Piotr\Documents\SharpDevelop Projects\Picture\Picture\obj\Debug\Picture.pdb
